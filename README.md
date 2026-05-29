@@ -1,16 +1,26 @@
-## Hi there 👋
+Hi there 👋, I'm Arshia
+Full-Stack Developer | Python & Django Enthusiast | React Developer
 
-<!--
-**IArshia/IArshia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a passionate developer focused on building scalable web applications, modern APIs, and clean user experiences. I enjoy turning ideas into real-world products using Python, Django, React, and modern web technologies.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 About Me
+🔭 Currently building full-stack web applications
+🌱 Continuously learning system design, backend optimization, and modern frontend architectures
+💡 Passionate about clean code, performance, and developer experience
+⚡ Love working on real-world projects and solving practical problems
+🎯 Interested in SaaS platforms, automation tools, and AI-powered applications
+🛠️ Tech Stack
+Backend
+🐍 Python
+🌐 Django
+🔌 Django REST Framework
+🗄️ PostgreSQL
+💾 SQLite
+🔐 REST APIs
+Frontend
+⚛️ React
+🟨 JavaScript (ES6+)
+🌍 HTML5
+🎨 CSS3
+💨 Tailwind CSS
+🅱️ Bootstrap
